@@ -1,3 +1,7 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 2 Solution
+ *  Copyright 2021 Paul Shannon
+ */
 package base;//base package to deliver the first part of the exercise
 
 import java.util.Scanner;//package for scanner used latter

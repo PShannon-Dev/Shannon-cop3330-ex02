@@ -9,5 +9,8 @@
         <module name="NumCharacters" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="NumCharacters" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
